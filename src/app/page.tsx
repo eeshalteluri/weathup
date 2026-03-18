@@ -9,7 +9,7 @@ import MultipleWaysSection from "./components/MultipleWaysSection";
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-red-300">
+    <div className="min-h-screen bg-red-300 px-50">
       <Navbar />
       <HeroSection />
       <BackedBySection />
